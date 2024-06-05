@@ -25,3 +25,11 @@
 .item-nav-inf:hover {
     @apply text-orange-650 hover:border-orange-650
 }
+
+.item-nav-cat {
+    @apply text-blue-600 underline px-1 border-black
+}
+
+.item-nav-cat:hover {
+    @apply text-orange-650
+}
